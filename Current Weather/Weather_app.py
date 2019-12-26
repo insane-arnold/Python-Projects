@@ -7,7 +7,7 @@ WIDTH = 600
 root = tk.Tk()
 root.title("Current Weather")
 
-#key = 75e0be8f993ab13cd50bd6c7716ba640
+#key = 7716ba640
 #API_url = api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
 
 def format_response(weather):
@@ -26,7 +26,7 @@ def format_response(weather):
 
 
 def get_weather(city):
-		weather_key = "75e0be8f993ab13cd50bd6c7716ba640"
+		weather_key = "7716ba640"
 		url = "https://api.openweathermap.org/data/2.5/weather"
 		params = {"APPID" : weather_key, "q": city, "units":"Metric"}
 		response = requests.get(url,params= params)
