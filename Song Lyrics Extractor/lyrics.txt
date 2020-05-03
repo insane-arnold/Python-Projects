@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Breakeven" lyrics
+
+The Script Lyrics
+
+
+
+
+"Breakeven"
+
+
+
+I'm still alive but I'm barely breathing
+Just praying to a god that I don't believe in
+'Cause I got time while she got freedom
+'Cause when a heart breaks, no, it don't break even
+
+Her best days will be some of my worst
+She finally met a man that's gonna put her first
+While I'm wide awake she's no trouble sleeping
+'Cause when a heart breaks no it don't break even, even, no
+
+What am I supposed to do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+I'm falling to pieces
+I'm falling to pieces
+
+They say bad things happen for a reason
+But no wise words gonna stop the bleeding
+'Cause she's moved on while I'm still grieving
+And when a heart breaks no it don't break even, even, no
+
+And what am I gonna do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+
+I'm falling to pieces
+I'm falling to pieces
+I'm falling to pieces
+(One still in love while the other one's leaving)
+I'm falling to pieces
+('Cause when a heart breaks, no, it don't break even)
+
+Oh, you got his heart and my heart and none of the pain
+You took your suitcase, I took the blame
+Now I'm tryna make sense of what little remains
+'Cause you left me with no love and no love to my name
+
+I'm still alive but I'm barely breathing
+Just praying to a god that I don't believe in
+'Cause I got time while she got freedom
+'Cause when a heart breaks, no, it don't break
+No, it don't break
+No, it don't break even, no
+
+What am I gonna do
+When the best part of me was always you?
+And what am I supposed to say
+When I'm all choked up and you're OK?
+(Oh glad you're okay now)
+
+I'm falling to pieces
+I'm falling to pieces
+(Oh, I'm falling, falling)
+I'm falling to pieces
+(One still in love while the other one's leaving)
+I'm falling to pieces
+('Cause when a heart breaks, no, it don't break even)
+
+Oh, it don't break even, no
+Oh, it don't break even, no
+Oh, it don't break even, no
+
+
+
+
+
+if  ( /Android|webOS|iPhone|iPod|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) 
+  {
+     document.getElementById('azmxmbanner').style.display='block';
+     document.write('<div style="margin-left: auto; margin-right: auto;">'+
+  '<iframe scrolling="no" style="border: 0px none; overflow:hidden;" src="//adv.mxmcdn.net/br/t1.0/m_js/e_0/sn_0/l_20219956/su_0/rs_0/tr_3vUCAAfXaIIrNlffKhoO6p2uE3LnIjfqHtteNVGAhpOpLHtntmlVKITbb77Pm9W4jFf5ft1MMUSmji2ZpvlwW7mzdYzFC3OaAo4mDVIXhCA6MB0XlYprmW0EmUPRxwdel0zqGfX1s33B9X3U2C61TB3Y0ur6faqJ0DhY655zHhzmyUv_hlZNG5tsBkjzq6PuGHrzdRddAewG-5FDewWndFg6rywNMc0Qd7vcrPTSNmuiZ8UHhrd9MmQZc5wvrlbrgp51KSWQmcVMSadrvFsHTzkaljYrkcNQ06XIpSaLtCyHJn6BOIv87vY0bYY2xJcZojTM_lqjlvrv8E6VNaKu_CJBPMq8RM1_06C4wKjxuPZoLb3mHrcy2e-QqHSCRYZBM5_tv4WYBxwdwHWYIPkycnayVMuycVsEIhrUGtk2wb-2NjWvxEortDAroHpcF04/" width="290px" height="50px"></iframe>'+
+  '</div>');
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submit Corrections
+
+Thanks to Melissa for adding these lyrics.
+Thanks to Zarai Beas, SydTheKid, xox, cheese, ashley for correcting these lyrics.
+
+
+
+
+
+Writer(s): O Donoghue Daniel John, Sheehan Mark Anthony, Kipner Stephen Alan, Frampton Andrew Marcus
+
+
+
+
+
+AZLyrics
+S
+The Script Lyrics
+
+
+
+album: "The Script" (2008)
+We Cry
+Before The Worst
+Talk You Down
+The Man Who Can't Be Moved
+Breakeven
+Rusty Halo
+The End Where I Begin
+Fall For Anything
+If You See Kay
+I'm Yours
+Anybody There(Bonus Track)
+Live Like We're Dying(Japanese Bonus Track)
+
+
+
+
+
+
+ Search
+
+
+
+
+
+
+ 
+
+
+
